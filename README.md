@@ -2,11 +2,9 @@
 
   # Hi, I'm Day!
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+cosmic+space!;Creating%2C+building+%26+learning;Exploring+the+universe+of+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Creating%2C+building+%26+learning;Exploring+the+universe+of+code" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MW1sbm5sdXpvaWZ0bjE5aDNmZGNscDRrZWN0cGRndXR6ajdrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKTDn976rzVgky4/giphy.gif" width="300px" alt="Galaxy Space Aesthetic Gif">
-  </p>
+  <br><br>
 
   <i>"Creating beautiful things, one line of code at a time."</i>
 
@@ -16,7 +14,7 @@
 
 ### About Me
 
-> Welcome to my personal playground! This is my cozy space to experiment, learn, and build awesome projects from scratch while exploring the stars.
+> Welcome to my personal playground! This is my cozy space to experiment, learn, and build awesome projects from scratch.
 
 - **Currently working on:** Building and designing new software projects.
 - **Currently learning:** Advanced web development & full-stack magic.
@@ -65,4 +63,9 @@ Have a question, a project in mind, or just want to chat? Feel free to reach out
 ---
 
 <p align="center">
-  <img src="
+  <img src="https://profile-counter.glitch.me/dayannamb2007-ctrl/count.svg" alt="Visitors Count" />
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by!</i>
+</p>
