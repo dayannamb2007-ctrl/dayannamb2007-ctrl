@@ -1,31 +1,31 @@
 <div align="center">
 
-  # 🎀 Hi, I'm Day! 🎀
+  # Hi, I'm Day!
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+cosmic+space!+✨;Creating%2C+building+%26+learning+%F0%9F%8C%B8;Exploring+the+universe+of+code+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+cosmic+space!;Creating%2C+building+%26+learning;Exploring+the+universe+of+code" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29tdTN4MnEwbDF0cGg4dmxlZHlsZjhwbndsdHFidjdjcTdzbTNwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="220px" alt="Space Astronomy Gif">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1MW1sbm5sdXpvaWZ0bjE5aDNmZGNscDRrZWN0cGRndXR6ajdrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKTDn976rzVgky4/giphy.gif" width="300px" alt="Galaxy Space Aesthetic Gif">
   </p>
 
-  <i>"Creating beautiful things, one line of code at a time."</i> 🌸✨
+  <i>"Creating beautiful things, one line of code at a time."</i>
 
 </div>
 
 ---
 
-### 🌌 About Me
+### About Me
 
-> Welcome to my personal playground! This is my cozy space to experiment, learn, and build awesome projects from scratch while exploring the stars. 🌙✨
+> Welcome to my personal playground! This is my cozy space to experiment, learn, and build awesome projects from scratch while exploring the stars.
 
-- 🦄 **Currently working on:** Building and designing new software projects.
-- 🌱 **Currently learning:** Advanced web development & full-stack magic.
-- 💬 **Ask me about:** Java, Web design, and learning cool new tools!
-- 🎨 **Interests:** Astronomy, space, tech, design & creative building.
+- **Currently working on:** Building and designing new software projects.
+- **Currently learning:** Advanced web development & full-stack magic.
+- **Ask me about:** Java, Web design, and learning cool new tools!
+- **Interests:** Astronomy, space, tech, design & creative building.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dayannamb2007-ctrl&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Web:**  
 ![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openapi-initiative&logoColor=white)
@@ -49,9 +49,9 @@
 
 ---
 
-### ✉️ Contactarme
+### Contactarme
 
-Have a question, a project in mind, or just want to chat? Feel free to reach out to me! 💌
+Have a question, a project in mind, or just want to chat? Feel free to reach out to me!
 
 <p align="left">
   <a href="mailto:dayannamb2007@gmail.com">
@@ -65,9 +65,4 @@ Have a question, a project in mind, or just want to chat? Feel free to reach out
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/dayannamb2007-ctrl/count.svg" alt="Visitors Count" />
-</p>
-
-<p align="center">
-  ✨ <i>Thanks for stopping by Day's space!</i> 🌙✨
-</p>
+  <img src="
